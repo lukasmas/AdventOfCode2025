@@ -1,2 +1,5 @@
 .vscode
 *txt
+*.bazel
+*.bazel.lock
+bazel-*
